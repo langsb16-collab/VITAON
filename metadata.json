@@ -1,0 +1,10 @@
+{
+  "name": "미국 건강관리앱 VitaON - 0418",
+  "description": "Integrated Healthcare SaaS App: Record, analyze, and improve your health status with AI food analysis, exercise tracking, and real-time coaching.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
